@@ -2,7 +2,4 @@
 
 A README for helping with the Git Good interactive portion of our presentation
 
-Another Change.
-
-
-Third Change
+Our URL for this project is at https://github.com/invitation-homes/unt-git-good
